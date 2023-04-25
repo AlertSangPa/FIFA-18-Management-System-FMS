@@ -26,7 +26,7 @@ One of the most difficult tasks is that, the selection of the software, once sys
 2.	Google chrome v70.0.3538 or greater
 3.	WAMPP web server
 4.	Brackets web editor
-
+-----------------
 ## Description of FMS
 
 This project consists of player details, which describes about player biodata such as age and nationality. It also consists of player stats which describes about players technical skills. It also consists of tables containing details such as player earnings, club information and preferred position of playing. It also provide a strong searching, updating, deleting and inserting operations with a user friendly web based UI.
